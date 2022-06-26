@@ -6,7 +6,7 @@
 
 * My name is **Adem**, :point_left:
 
-* *I am 19 years old and you will find on my Github works that I did alone or in team at school or extra-school * 
+* *I am 19 years old and you will find on my Github works that I did alone or in team at school or extra-school 
 
 * And one last thing, I’ll be the best developer the earth will ever know :smirk:
 
