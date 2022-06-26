@@ -10,6 +10,7 @@
 
 * And one last thing, I’ll be the best developer the earth will ever know :smirk:
 
+---
 
 ### 💫 What Do I Like ?
 
@@ -17,6 +18,7 @@
 
 * (*it all comes before my cat* :cat:) 
 
+---
 
 ### 📚 What Do I Study ?
 
