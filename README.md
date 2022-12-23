@@ -35,7 +35,9 @@
   + Php
   + C
   + HTML / CSS
-  + Javascript
+  + JavaScript
   + SQL
   + Shell
+  + JSON
+  
 
